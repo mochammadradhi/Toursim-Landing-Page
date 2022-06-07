@@ -1,0 +1,12 @@
+Logo Icons
+https://icons8.com/icons/set/airbnb
+https://pngtree.com/freepng/travel-logo--travel-agency-adventure-creative_3623440.html
+
+Image non-copyright
+https://unsplash.com/s/photos/mount-bromo
+https://unsplash.com/s/photos/borobudur
+https://unsplash.com/s/photos/indonesia
+
+AOS Animation
+https://github.com/michalsnik/aos#easing-functions
+
